@@ -7,4 +7,3 @@
   </td>
 
   </table>
-![Profile Views](https://komarev.com/ghpvc/?username=Defcon27)

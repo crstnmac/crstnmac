@@ -2,9 +2,11 @@
     <foreignObject width="480" height="133">
         <div xmlns="http://www.w3.org/1999/xhtml" class="container">
             <style>
+	    	@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&display=swap');
                 .main {
                     /*margin-top: 40px;*/
                     display: flex;
+		    align-items: center;
                 }
 
                 .currentStatus {
@@ -13,6 +15,7 @@
                     position: static;
                     margin-top: -5px;
                     margin-left: 10px;
+		    font-family: 'Inter', sans-serif;
                 }
                 
                 @media (prefers-color-scheme: light) {
@@ -118,7 +121,7 @@
                 {{barCSS|safe}}
             </style>
 
-            <div class="currentStatus">{{status}}</div>
+            <div class="currentStatus">{{status}} :</div>
 
             <div class="main">
                 <a class="art" href="{}" target="_blank">

@@ -56,7 +56,7 @@ def recentlyPlayed():
     headers = {"Authorization": f"Bearer {token}"}
     response = requests.get(RECENTLY_PLAYING_URL, headers=headers)
 
-    if response.status_code == 204 || response.status_code > 400:
+    if response.status_code == 204:
         return {}
     return response.json()
 
@@ -66,7 +66,7 @@ def nowPlaying():
     headers = {"Authorization": f"Bearer {token}"}
     response = requests.get(NOW_PLAYING_URL, headers=headers)
 
-    if response.status_code == 204 || response.status_code > 400:
+    if response.status_code == 204:
         return {}
     return response.json()
 

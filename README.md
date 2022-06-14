@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/devcriston" target="blank"><img src="https://img.shields.io/twitter/follow/devcriston?logo=twitter&style=for-the-badge" alt="devcriston" /></a> </p>
 
-- 🌱 I’m currently learning **Angular**
-
 - 👨‍💻 All of my projects are available at [crstnmac.github.io](https://crstnmac.github.io)
 
 - 💬 Ask me about **React, Vue, Angular**

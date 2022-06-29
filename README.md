@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **criston2011@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1IYiTjZYlIXaMTz0V-bStuoTSYk9VGmfx/view)
-
 - ⚡ Fun fact **Sky is not blue.**
 
 <h3 align="left">Connect with me:</h3>

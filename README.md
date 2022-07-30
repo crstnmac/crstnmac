@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [crstnmac.github.io](https://crstnmac.github.io)
 
-- 💬 Ask me about **React, Vue, Angular**
-
 - 📫 How to reach me **criston2011@gmail.com**
 
 - ⚡ Fun fact **Sky is not blue.**

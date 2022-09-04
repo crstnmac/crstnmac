@@ -11,7 +11,13 @@ I'm a software engineer from India, who's currently working in GlobalLogic to cr
   - TailwindCSS / styled-components
   - In the past: AngularJS, Angular
 
-Learning/know a bit of GraphQL, Spring Boot, and MongoDB as well :)
+- 🛠 Backend:
+  - Node / Spring Boot
+  - Postgres + Prisma
+  - Redis
+  - Docker
+
+Learning/know a bit of GraphQL & MongoDB as well :)
 
 [![Hits](https://hits.link/hits?url=https://github.com/crstnmac&bgLeft=444444&bgRight=575fff&label=visits)](https://hits.link)
 

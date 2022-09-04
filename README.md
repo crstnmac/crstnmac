@@ -17,4 +17,4 @@ Learning/know a bit of GraphQL, Spring Boot, and MongoDB as well :)
 
 <a href="https://open.spotify.com/user/xpxdzn2hztvea9akz2unakmuc" target="blank">&nbsp;<p><img align="left" src="https://now-play.vercel.app/api/generate?uid=efc4792d-dd75-404f-a518-32caada147f9&theme=dark" alt="crstnmac" /></p></a>
 
-<a href="https://open.spotify.com/user/xpxdzn2hztvea9akz2unakmuc" target="blank">&nbsp;&nbsp;<p><img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=xpxdzn2hztvea9akz2unakmuc&width=350" alt="crstnmac" /></p></a>
+<a href="https://open.spotify.com/user/xpxdzn2hztvea9akz2unakmuc" target="blank">&nbsp;<p><img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=xpxdzn2hztvea9akz2unakmuc&width=350" alt="crstnmac" /></p></a>

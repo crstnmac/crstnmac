@@ -22,10 +22,6 @@
 
 <a href="https://discord.com/users/484623360899284992" target="blank"><p><img align="left" src="https://lanyard.cnrad.dev/api/484623360899284992" alt="crstnmac" /></p></a>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=crstnmac&show_icons=true&locale=en" alt="crstnmac" /></p>
-
 <a href="https://open.spotify.com/user/xpxdzn2hztvea9akz2unakmuc?si=2952e56832614360s" target="blank"><p>&nbsp;<img align="right" src="https://crstnmac.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="crstnmac" /></p></a>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crstnmac&show_icons=true&locale=en&layout=compact" alt="crstnmac" /></p>
 
 

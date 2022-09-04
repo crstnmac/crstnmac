@@ -7,7 +7,7 @@ I'm a software engineer from India, who's currently working in GlobalLogic to cr
 <a href="https://discord.com/users/484623360899284992" target="blank"><p><img align="right" src="https://lanyard.cnrad.dev/api/484623360899284992" alt="crstnmac" /></p></a>
 
 - 🖥️ Frontend:
-  - React / Next.js / React Native
+  - React / Vue / Nuxt / Next.js / React Native
   - TailwindCSS / styled-components
   - In the past: AngularJS, Angular
 
@@ -15,7 +15,10 @@ Learning/know a bit of GraphQL, Spring Boot, and MongoDB as well :)
 
 [![Hits](https://hits.link/hits?url=https://github.com/crstnmac&bgLeft=444444&bgRight=575fff&label=visits)](https://hits.link)
 
+<object data="https://now-play.vercel.app/api/generate?uid=efc4792d-dd75-404f-a518-32caada147f9&theme=dark" >
 
-<a href="https://open.spotify.com/user/xpxdzn2hztvea9akz2unakmuc?si=2952e56832614360s" target="blank"><p>&nbsp;<img align="right" src="https://crstnmac.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="crstnmac" /></p></a>
+  <img src="https://now-play.vercel.app/api/generate?uid=efc4792d-dd75-404f-a518-32caada147f9&theme=dark" />
 
+</object>
 
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=xpxdzn2hztvea9akz2unakmuc)

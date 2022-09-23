@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/crstnmac/crstnmac/1cc7d7608c5c0f09ff69c5762fa5d629ec00df60/header.svg" alt=":header:" />
 
-I'm a software engineer from India, who's currently working in GlobalLogic to create stunning user experiences on the front-end.
+I'm a software engineer from India
 
 ---
 

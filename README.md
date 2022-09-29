@@ -23,7 +23,7 @@ I'm a software engineer from India
 
 Learning/know a bit of GraphQL & MongoDB as well :)
 
-[![Hits](https://hits.link/hits?url=https://github.com/crstnmac&bgLeft=444444&bgRight=575fff&label=visits)](https://hits.link)
+[![Hits](https://hits.sh/github.com/crstnmac.svg?color=1c2aec&labelColor=161414)](https://hits.sh/github.com/crstnmac/)
 
 <a href="https://open.spotify.com/user/xpxdzn2hztvea9akz2unakmuc" target="_blank">&nbsp;<p><img align="left" src="https://now-play.vercel.app/api/generate?uid=efc4792d-dd75-404f-a518-32caada147f9&theme=dark" alt="crstnmac" /></p></a>
 

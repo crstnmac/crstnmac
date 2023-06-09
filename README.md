@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/crstnmac/crstnmac/1cc7d7608c5c0f09ff69c5762fa5d629ec00df60/header.svg" alt=":header:" />
 
-I'm a software engineer from India currently working in [Timeless.co](https://timeless.co) as a Frontend Engineer to create & develop stunning frontend interfaces.
+I'm a software developer who works as a frontend engineer at [Timeless.co](https://timeless.co) to design and construct gorgeous frontend experiences.
 
 ---
 

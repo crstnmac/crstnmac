@@ -16,8 +16,6 @@ I'm a software developer who works as a frontend engineer at [Timeless.co](https
   - Postgres + Prisma
   - Redis
   - Docker
-
-
-Learning/know a bit of GraphQL & MongoDB as well :)
+  - MongoDB
 
 [![Hits](https://hits.sh/github.com/crstnmac.svg?label=views&color=1c2aec&labelColor=161414)](https://hits.sh/github.com/crstnmac/)

@@ -12,6 +12,7 @@ I'm a software developer who works as a frontend engineer to design and construc
   - In the past: AngularJS, Angular
 
 - 🛠 Backend:
+  - Rust 
   - Node / Spring Boot
   - Postgres + Prisma
   - Redis

@@ -4,8 +4,6 @@ I'm a software developer who works as a frontend engineer to design and construc
 
 ---
 
-<a href="https://open.spotify.com/user/xpxdzn2hztvea9akz2unakmuc" target="_blank">&nbsp;<p><img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=xpxdzn2hztvea9akz2unakmuc&width=350" alt="crstnmac" /></p></a>
-
 - 🖥️ Frontend:
   - React / Next.js / React Native
   - TailwindCSS / styled-components
